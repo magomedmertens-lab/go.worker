@@ -1,3 +1,3 @@
-module github.com/<ТВОЙ_ЮЗЕРНЕЙМ>/go-workers
+module github.com/<magomedmertens-lab>/go-workers
 
 go 1.22
